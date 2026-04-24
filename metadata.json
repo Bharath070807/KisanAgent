@@ -1,0 +1,6 @@
+{
+  "name": "KissanAgent",
+  "description": "KissanAgent: Your Smart Farming Companion. An AI-powered agricultural assistant for rural Indian farmers with multi-language voice support, mandi prices, and government scheme guidance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
